@@ -5,7 +5,7 @@
 
 # environment
 .env
-.pyvenv
+pyvenv.cfg
 .venv
 env/
 venv/
