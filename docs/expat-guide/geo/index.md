@@ -110,6 +110,7 @@
 
 - Mediclub Georgia
 - American Hospital
+- Todua Clinic
 
 ### Pharmacies
 
